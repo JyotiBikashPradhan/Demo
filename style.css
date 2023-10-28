@@ -1,0 +1,45 @@
+body{
+    background-color: yellow;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+h1{
+    color: red;
+}
+
+p{
+    color: blue;
+    width: 200px;
+    height: 20px;
+    border: 1px solid blue;
+    text-align: center;
+    background-color: rgb(170, 243, 0);
+
+}
+/* .header{
+    color: blue;
+    width: 200px;
+    height: 20px;
+    border: 1px solid blue;
+    text-align: center;
+    background-color: rgb(170, 243, 0);
+    font-size: 30px;
+} */
+
+#x{
+    color: blue;
+}
+#y{
+    color: rgb(71, 228, 24);
+}
+#z{
+    color: rgb(240, 25, 10);
+}
+#a{
+    color: rgb(255, 0, 0);
+}
+.img{
+    width: 50%;
+    height: 50%;
+}
